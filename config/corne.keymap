@@ -35,9 +35,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB     &kp EXCL            &kp AT             &kp POUND           &kp DOLLAR           &kp PERCENT        &kp CARET         &kp AMPS           &kp ASTRK     &kp LPAR         &kp RPAR       &kp BSPC
-&bt BT_CLR  &mt LCTRL NUMBER_1  &mt LALT NUMBER_2  &mt LMETA NUMBER_3  &mt LSHIFT NUMBER_4  &kp N5             &kp NUMBER_6      &mt LSHFT N7       &mt RMETA N8  &mt LC(LALT) N9  &kp N0         &kp ENTER
-&trans      &kp GRAVE           &kp PLUS           &kp EQUAL           &kp LEFT_BRACE       &kp RIGHT_BRACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS     &kp UNDER        &kp BACKSLASH  &trans
+&kp TAB     &kp EXCL            &kp AT             &kp POUND           &kp DOLLAR           &kp PERCENT        &kp CARET         &kp AMPS           &kp ASTRK     &kp LPAR     &kp RPAR       &kp BSPC
+&bt BT_CLR  &mt LCTRL NUMBER_1  &mt LALT NUMBER_2  &mt LMETA NUMBER_3  &mt LSHIFT NUMBER_4  &kp N5             &kp NUMBER_6      &mt LSHFT N7       &mt RMETA N8  &mt LALT N9  &mt RCTRL N0   &kp ENTER
+&trans      &kp GRAVE           &kp PLUS           &kp EQUAL           &kp LEFT_BRACE       &kp RIGHT_BRACE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS     &kp UNDER    &kp BACKSLASH  &trans
                                                    &to 0               &trans               &kp SPACE          &kp ESC           &lt 3 ENTER        &trans
             >;
         };
