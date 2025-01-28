@@ -19,7 +19,7 @@
 / {
     combos {
         compatible = "zmk,combos";
-ffffffg        left_thmb {
+            left_thmb {
             bindings = <&to 4>;
             key-positions = <36 38>;
         };
