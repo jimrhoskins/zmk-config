@@ -51,6 +51,17 @@
             bindings = <&mo 6>;
             key-positions = <6 7>;
         };
+
+        commadot {
+            bindings = <&kp ENTER>;
+            key-positions = <32 33>;
+        };
+
+        onetwo {
+            bindings = <&mo 1>;
+            key-positions = <31 32>;
+            layer = <1>;
+        };
     };
 
     keymap {
