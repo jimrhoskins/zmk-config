@@ -60,7 +60,7 @@
         onetwo {
             bindings = <&mo 1>;
             key-positions = <31 32>;
-            layer = <1>;
+            layers = <1>;
         };
     };
 
